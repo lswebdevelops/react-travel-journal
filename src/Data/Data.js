@@ -33,6 +33,28 @@ export default [
       endDate: "5 Jul, 2023",
       description: "Geirangerfjord is a UNESCO World Heritage Site and one of the most beautiful fjords in Norway. With its towering mountains, cascading waterfalls, and crystal-clear water, it's a breathtaking sight to behold.",
       imageUrl: "https://www.pexels.com/de-de/foto/landschaft-berge-natur-fluss-12671393/"
+    },
+    {
+      id:4,
+      title: "Machu Picchu",
+      image: "machupicchu",
+      location: "Peru",
+      googleMapsUrl: "https://www.google.com/maps/search/machu+picchu/@-13.2088354,-72.6319809,11z",
+      startDate: "15 Aug, 2023",
+      endDate: "20 Aug, 2023",
+      description: "Machu Picchu is a 15th-century Inca citadel located in the Andes Mountains of Peru. It is one of the most famous archaeological sites in the world and a symbol of the Inca Empire's grandeur and achievements.",
+      imageUrl: "https://www.pexels.com/de-de/foto/machu-pichu-peru-2356045/"
+    },
+    {
+      id:5,
+      title: "Santorini",
+      image: "santorini",
+      location: "Greece",
+      googleMapsUrl: "https://www.google.com/maps/place/Grand+View+Hotel/@36.4072637,25.3382298,12z/data=!4m17!1m7!3m6!1s0x1499ce86adfd9ff7:0xb2a761f740d68afc!2sSantorini!8m2!3d36.3931562!4d25.4615092!16zL20vMDcwdDk!3m8!1s0x1499ceff426cf949:0xb51a05a872a06f11!5m2!4m1!1i2!8m2!3d36.3741289!4d25.4251329!16s%2Fg%2F1wbyydhm",
+      startDate: "1 Oct, 2023",
+      endDate: "5 Oct, 2023",
+      description: "Santorini is a picturesque Greek island known for its stunning sunsets, white-washed buildings, and blue-domed churches. It is a popular destination for honeymooners and travelers seeking a romantic getaway.",
+      imageUrl: "https://www.pexels.com/de-de/foto/foto-von-santorini-griechenland-1010640/"
     }
   ]
   
