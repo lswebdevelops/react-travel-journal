@@ -1,8 +1,20 @@
+:root{
+    --main-bg-color:rgb(243, 79, 80) ;
+    --main-padding: 14px;
+    --main-color: white;
+    --general-padding: 2px;
+    --main-font-family: Inter;
+}
 .content-app{
     display: flex;
     flex-direction: column;
     gap: 5px;
     background-color: rgb(238, 238, 238);
-    border-radius: 5px;
-    
+   
+    border-bottom-right-radius: var(--main-padding);
+    border-bottom-left-radius: var(--main-padding);
 }
+
+
+
+
