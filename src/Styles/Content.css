@@ -24,54 +24,35 @@
     overflow:hidden;
     object-fit:cover;
     background-color: var(--main-color);
-
 }
 .div-location-text-content{
     display: flex;
     flex-direction: column;
     justify-content: left;
     gap: 6px;
-   background-color: var(--main-color);
-
-
-
+    background-color: var(--main-color);
 }
 .div-content{
     display: flex;
     background-color: var(--main-color);
     gap: 6px;
-
 }
 .icon-maps{
     color:var(--main-bg-color);
     background-color: var(--main-color);
-
-
-
 }
 .para-date-content{
     background-color: var(--main-color);
     font-weight: 700;
 
 }
-.h1-content{
-    background-color: var(--main-color);
-
-
-}
-.para-date-content{
-    background-color: var(--main-color);
-
-}
-.para-description-content{
-    background-color: var(--main-color);
-    
-
-}
+.h1-content,.link-img-content,
+.para-date-content,
+.para-description-content,
 .para-location-content{
     background-color: var(--main-color);
-
 }
+
 .maps-link-content{
     background-color: var(--main-color);
     text-decoration: underline;

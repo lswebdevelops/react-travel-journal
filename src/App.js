@@ -21,6 +21,6 @@ const contentElements = contentData.map(item =>{
       
     </div>
   );
-}
+};
 
 export default App;
