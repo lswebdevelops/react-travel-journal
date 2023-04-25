@@ -15,9 +15,16 @@
     font-family: var(--main-font-family);
     overflow:hidden;
     object-fit:cover;
-    border-bottom-right-radius: var(--main-padding);
-    border-bottom-left-radius: var(--main-padding);
+     
 }
+
+.content-container:last-child{
+    border-bottom-right-radius: var(--main-padding);
+    border-bottom-left-radius: var(--main-padding); 
+}
+
+
+
 
 .img-content{
     width: 300px;

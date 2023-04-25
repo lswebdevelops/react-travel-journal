@@ -10,11 +10,8 @@
     flex-direction: column;
     gap: 5px;
     background-color: rgb(238, 238, 238);
-   
     border-bottom-right-radius: var(--main-padding);
     border-bottom-left-radius: var(--main-padding);
 }
-
-
 
 
